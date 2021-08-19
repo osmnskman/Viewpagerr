@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/46323009/126011581-91636e25-c336-4e51-
 ## Installation
 Clone the repository.
 ```bash
-git clone https://github.com/android-viewpager-osmnskman.git
+git clone https://github.com/osmnskman/Viewpagerr.git
 ```
 ### Activities
     • MainActivity.class   
